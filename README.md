@@ -1,1 +1,1 @@
-# PRO-V2-C38-ModeloProjeto
+# Os estudantes selecionam o comando correto para usar a câmera.
